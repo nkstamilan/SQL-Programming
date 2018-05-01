@@ -9,6 +9,5 @@ create table student(student_name varchar(100) not null,
           arrears varchar(100)  null,
           position varchar(100)  null,
           place varchar(100) not null);
-insert into student values('vijay','15bee216','21','M','B','EEE','80%','0','5','coimbatore');
-select *from student; 
+desc student;
 
